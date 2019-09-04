@@ -1,0 +1,14 @@
+{
+  "useUpdateActionTaskReference" : "UUATR775207",
+  "locationDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "updateResponseRecord" : {},
+  "useInstanceRecord" : {
+    "locationUsage" : "locationUsage",
+    "locationZoningType" : "locationZoningType"
+  },
+  "useUpdateActionTaskRecord" : {}
+}

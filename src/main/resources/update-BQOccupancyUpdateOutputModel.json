@@ -1,0 +1,19 @@
+{
+  "locationDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "updateResponseRecord" : {},
+  "occupancyUpdateActionTaskReference" : "OUATR716543",
+  "occupancyUpdateActionTaskRecord" : {},
+  "occupancyInstanceRecord" : {
+    "locationOccupierTerms" : "locationOccupierTerms",
+    "locationOccupierReference" : "703547",
+    "alliancePartnerReference" : "705926",
+    "customerReference" : "797996",
+    "locationOwnerTitle" : "locationOwnerTitle",
+    "locationOccupierType" : "locationOccupierType",
+    "locationValue" : "locationValue"
+  }
+}

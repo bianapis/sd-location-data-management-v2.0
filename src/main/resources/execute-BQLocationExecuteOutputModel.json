@@ -1,0 +1,16 @@
+{
+  "locationInstanceRecord" : {
+    "locationStatus" : "locationStatus",
+    "locationDescription" : "locationDescription",
+    "locationType" : "locationType",
+    "locationConstructionType" : "locationConstructionType",
+    "locationNeighborhoodType" : "locationNeighborhoodType",
+    "locationAddress" : "locationAddress",
+    "locationCoordinates" : "locationCoordinates",
+    "locationCapacity" : "locationCapacity"
+  },
+  "executeResponseRecord" : {},
+  "locationExecuteActionTaskReference" : "LEATR765791",
+  "locationExecuteRecordReference" : "LERR750869",
+  "locationExecuteActionTaskRecord" : {}
+}

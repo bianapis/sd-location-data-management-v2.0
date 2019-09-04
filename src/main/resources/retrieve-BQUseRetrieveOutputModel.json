@@ -1,0 +1,27 @@
+{
+  "useRetrieveActionTaskRecord" : {},
+  "useRetrieveActionResponse" : "useRetrieveActionResponse",
+  "useRetrieveActionTaskReference" : "URATR763498",
+  "locationDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "locationReference" : "745256"
+  },
+  "useInstanceRecord" : {
+    "locationUsage" : "locationUsage",
+    "locationZoningType" : "locationZoningType"
+  },
+  "useInstanceAnalysis" : {
+    "useInstanceAnalysisReportType" : "useInstanceAnalysisReportType",
+    "useInstanceAnalysisRecord" : {},
+    "useInstanceAnalysisParameters" : "useInstanceAnalysisParameters",
+    "useInstanceAnalysisReport" : {}
+  },
+  "useInstanceReport" : {
+    "useInstanceReportParameters" : "useInstanceReportParameters",
+    "useInstanceReport" : {},
+    "useInstanceReportRecord" : {},
+    "useInstanceReportType" : "useInstanceReportType"
+  }
+}

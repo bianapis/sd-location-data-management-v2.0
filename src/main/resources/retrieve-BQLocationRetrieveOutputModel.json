@@ -1,0 +1,33 @@
+{
+  "locationRetrieveActionTaskRecord" : {},
+  "locationInstanceReport" : {
+    "locationInstanceReport" : {},
+    "locationInstanceReportType" : "locationInstanceReportType",
+    "locationInstanceReportParameters" : "locationInstanceReportParameters",
+    "locationInstanceReportRecord" : {}
+  },
+  "locationInstanceRecord" : {
+    "locationStatus" : "locationStatus",
+    "locationDescription" : "locationDescription",
+    "locationType" : "locationType",
+    "locationConstructionType" : "locationConstructionType",
+    "locationNeighborhoodType" : "locationNeighborhoodType",
+    "locationAddress" : "locationAddress",
+    "locationCoordinates" : "locationCoordinates",
+    "locationCapacity" : "locationCapacity"
+  },
+  "locationDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "locationReference" : "744506"
+  },
+  "locationInstanceAnalysis" : {
+    "locationInstanceAnalysisParameters" : "locationInstanceAnalysisParameters",
+    "locationInstanceAnalysisRecord" : {},
+    "locationInstanceAnalysisReport" : {},
+    "locationInstanceAnalysisReportType" : "locationInstanceAnalysisReportType"
+  },
+  "locationRetrieveActionResponse" : "locationRetrieveActionResponse",
+  "locationRetrieveActionTaskReference" : "LRATR767508"
+}

@@ -1,0 +1,32 @@
+{
+  "occupancyRetrieveActionResponse" : "occupancyRetrieveActionResponse",
+  "occupancyRetrieveActionTaskReference" : "ORATR754397",
+  "occupancyInstanceReport" : {
+    "occupancyInstanceReportRecord" : {},
+    "occupancyInstanceReportParameters" : "occupancyInstanceReportParameters",
+    "occupancyInstanceReport" : {},
+    "occupancyInstanceReportType" : "occupancyInstanceReportType"
+  },
+  "locationDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "locationReference" : "793081"
+  },
+  "occupancyRetrieveActionTaskRecord" : {},
+  "occupancyInstanceAnalysis" : {
+    "occupancyInstanceAnalysisParameters" : "occupancyInstanceAnalysisParameters",
+    "occupancyInstanceAnalysisReport" : {},
+    "occupancyInstanceAnalysisReportType" : "occupancyInstanceAnalysisReportType",
+    "occupancyInstanceAnalysisRecord" : {}
+  },
+  "occupancyInstanceRecord" : {
+    "locationOccupierTerms" : "locationOccupierTerms",
+    "locationOccupierReference" : "704084",
+    "alliancePartnerReference" : "752017",
+    "customerReference" : "773363",
+    "locationOwnerTitle" : "locationOwnerTitle",
+    "locationOccupierType" : "locationOccupierType",
+    "locationValue" : "locationValue"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "locationInstanceRecord" : {
+    "locationStatus" : "locationStatus",
+    "locationDescription" : "locationDescription",
+    "locationType" : "locationType",
+    "locationConstructionType" : "locationConstructionType",
+    "locationNeighborhoodType" : "locationNeighborhoodType",
+    "locationAddress" : "locationAddress",
+    "locationCoordinates" : "locationCoordinates",
+    "locationCapacity" : "locationCapacity"
+  },
+  "locationUpdateActionTaskRecord" : {},
+  "locationDirectoryEntryInstanceRecord" : {
+    "date" : "09-22-2018"
+  },
+  "updateResponseRecord" : {},
+  "locationUpdateActionTaskReference" : "LUATR765464"
+}

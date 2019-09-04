@@ -1,0 +1,15 @@
+{
+  "occupancyExecuteActionTaskReference" : "OEATR783259",
+  "executeResponseRecord" : {},
+  "occupancyExecuteActionTaskRecord" : {},
+  "occupancyInstanceRecord" : {
+    "locationOccupierTerms" : "locationOccupierTerms",
+    "locationOccupierReference" : "782997",
+    "alliancePartnerReference" : "741376",
+    "customerReference" : "704140",
+    "locationOwnerTitle" : "locationOwnerTitle",
+    "locationOccupierType" : "locationOccupierType",
+    "locationValue" : "locationValue"
+  },
+  "occupancyExecuteRecordReference" : "OERR714326"
+}

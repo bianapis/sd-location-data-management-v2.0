@@ -1,0 +1,21 @@
+{
+  "locationDirectoryEntryRetrieveActionTaskRecord" : {},
+  "locationDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "locationReference" : "797985"
+  },
+  "locationDirectoryEntryInstanceAnalysis" : {
+    "locationDirectoryEntryInstanceAnalysisData" : "locationDirectoryEntryInstanceAnalysisData",
+    "locationDirectoryEntryInstanceAnalysisReport" : {},
+    "locationDirectoryEntryInstanceAnalysisReportType" : "locationDirectoryEntryInstanceAnalysisReportType"
+  },
+  "locationDirectoryEntryRetrieveActionTaskReference" : "LDERATR712512",
+  "locationDirectoryEntryRetrieveActionResponse" : "locationDirectoryEntryRetrieveActionResponse",
+  "locationDirectoryEntryInstanceReportRecord" : {
+    "locationDirectoryEntryInstanceReportData" : "locationDirectoryEntryInstanceReportData",
+    "locationDirectoryEntryInstanceReportType" : "locationDirectoryEntryInstanceReportType",
+    "locationDirectoryEntryInstanceReport" : {}
+  }
+}
